@@ -7,7 +7,7 @@ import { HttpClient,HttpHeaders } from '@angular/common/http';
 export class ApiserviceService {
 
   private headers = new HttpHeaders({
-    'X-RapidAPI-Key': '8bc6785024msheecc8540adc975dp1e847ejsna48afde9f3e4',
+    'X-RapidAPI-Key': '9cf5d76a29msh6b2f58569567334p1f99c4jsnb9eb3fea35c1',
     'X-RapidAPI-Host': 'the-cocktail-db3.p.rapidapi.com'
   });
   constructor(public hc:HttpClient) { }
